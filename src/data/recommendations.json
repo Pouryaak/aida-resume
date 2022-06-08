@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    {
+      "name": "Pourya Akrami",
+      "avatar": "/images/avatar.svg",
+      "jobTitle": "Software Developer at TrackMan",
+      "recommendation": "There is no better colleague than Aida. She is one of the most dedicated professionals I’ve worked with and is willing to put that extra help whenever you need it. She is a passionate, fast learner colleague and friend who would come the extra mile for you to help and get the job done. Her expertise as a developer is considerable, and it helped our company come up with more efficient solutions on different projects. Her contribution is valuable to the side, and I highly recommend Aida and would love to work with her again."
+    },
+    {
+      "name": "Mahdiyar Shababi",
+      "avatar": "/images/avatar.svg",
+      "jobTitle": "Typescript developer(ReactJS) at WorqApp",
+      "recommendation": "As a web application developer, I come into contact with many web developers- and Aida, when it comes to cross-platform apps and websites, is one of the best I've met. We've worked together in many projects and aside from her skill, what I appreciate most is how reliable, hardworking and responsive she is. I happily recommend her here on Linkedin, and do so in person to every colleague whenever I have the opportunity."
+    },
+    {
+      "name": "Bernard Garekani",
+      "avatar": "/images/avatar.svg",
+      "jobTitle": "Founder and Entrepreneur at iTech",
+      "recommendation": "Aida is very passionate and has great vision for her work. Her focus keeps everything moving smoothly, she makes sure all the deadlines are met, and makes sure that whatever project she is working on meets the highest standards. She developed CMS for our mobile apps with aplomb and diligence, displaying the ability to follow creative direction while adding her own creative input in a diplomatic and useful way. I highly recommend her!"
+    }
+  ]
+}

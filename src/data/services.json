@@ -1,0 +1,12 @@
+{
+  "customContent": "Looking for custom jobs? <a href=\"#contact\">Click here</a> to contact me! <span role=\"img\" aria-label=\"wave\">👋</span>",
+  "services": [
+    {
+      "title": "Test",
+      "photo": "/images/service-1.svg",
+      "backgroundColor": "rgb(108, 108, 229)",
+      "content": "Test.",
+      "delay": 0
+    }
+  ]
+}

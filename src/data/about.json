@@ -1,0 +1,54 @@
+{
+  "username": "Aida Khalili",
+  "avatar": "/images/avatar_purple.png",
+  "objective": "<p>I'm a student of Bsc Mobile Technology and I've been developing and expanding my knowledge professionally for the last two years by participating in some freelance open-source projects and engaging in different advanced courses also during the second year I have been working in CTI(Center of technology and innovation) in APU (Asia Pacific University) as a part-time developer.</p><p> I'm ambitious for solving complex problems that I face in every project as I feel I'm a good problem solver, nevertheless, I always try to keep my knowledge up to date with the latest technologies coming to the market. I'm highly adoptive and I'm sure I'll be an active and enthusiastic member if I'm placed into a team, which will help me to be a fast learner.</p>",
+  "resumeUrl": "#",
+  "skills": [
+    {
+      "name": "React js",
+      "confidence": 80,
+      "color": "rgb(255, 209, 92)"
+    },
+    {
+      "name": "Angular",
+      "confidence": 65,
+      "color": "rgb(108, 108, 229)"
+    },
+    {
+      "name": "JavaScript",
+      "confidence": 95,
+      "color": "rgb(255, 76, 96)"
+    },
+    {
+      "name": "TypeScript",
+      "confidence": 80,
+      "color": "rgb(51, 105, 30)"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 25,
+      "title": "Projects",
+      "iconPrefix": "fab",
+      "iconName": "osi"
+    },
+    {
+      "number": 290,
+      "title": "Hours of coding",
+      "iconPrefix": "fas",
+      "iconName": "tasks"
+    },
+    {
+      "number": 3285,
+      "title": "Cup of coffee",
+      "iconPrefix": "fa",
+      "iconName": "Coffee"
+    },
+    {
+      "number": 43,
+      "title": "Courses",
+      "iconPrefix": "far",
+      "iconName": "newspaper"
+    }
+  ]
+}

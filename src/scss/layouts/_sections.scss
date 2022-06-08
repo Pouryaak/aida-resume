@@ -1,0 +1,58 @@
+/*=================================================================*/
+/*                      SECTIONS                             
+/*=================================================================*/
+
+section {
+  padding-top: 110px;
+  position: relative;
+
+  &.home {
+    background: $color-dark;
+    padding: 0;
+    height: 100vh !important;
+    min-height: 100vh !important;
+
+    .intro {
+      margin: auto;
+      max-width: 540px;
+      text-align: center;
+      position: relative;
+
+      h1 {
+        color: $color-white;
+        font-size: $font-size-largest;
+      }
+
+      span {
+        color: $color-white;
+        font-size: $font-size-normal;
+      }
+    }
+
+    .social-icons {
+      li {
+        a {
+          color: $color-white;
+        }
+      }
+    }
+  }
+}
+
+.section-title {
+  font-size: $font-size-largest;
+  margin: 0 !important;
+  margin-left: 14px !important;
+  position: relative !important;
+
+  &:before {
+    content: "" !important;
+    background-image: url('../../../public/images/dots-bg.svg') !important;
+    display: block !important;
+    height: 37px !important;
+    left: -14px !important;;
+    top: -14px !important;;
+    position: absolute !important;;
+    width: 37px !important;;
+  }
+}

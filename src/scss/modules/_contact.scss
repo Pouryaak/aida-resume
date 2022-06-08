@@ -1,0 +1,61 @@
+/*=================================================================*/
+/*                      CONTACT                              
+/*=================================================================*/
+.contact-info {
+  background-image: url("../../../public/images/map.svg") !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  min-height: 200px !important;
+}
+.contact-info h3 {
+  font-size: 23px !important;
+  margin: 0 0 10px !important;
+}
+
+#contact {
+  padding-bottom: 50px !important;
+}
+
+/* === Form Control === */
+
+.kd-form-control, .kd-form-control:focus {
+  box-shadow: 0px 5px 20px 0px rgba(69, 67, 96, 0.1) !important;
+}
+
+.kd-form-control {
+  display: block !important;
+  border-radius: 30px !important;
+  width: 100% !important;
+  height: 60px !important;
+  padding: 10px 30px !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 1.6 !important;
+  color: #454360 !important;
+  background-color: #FFF !important;
+  background-image: none !important;
+  border: 0 !important;
+  margin: 15px !important;
+
+  &:focus {
+    outline: 0 !important;
+  }
+
+  &::placeholder {
+    color: #AEACCA !important;
+  }
+}
+
+.form-group {
+  margin-bottom: 30px !important;
+}
+
+#contact-btn {
+  border-radius: 20px !important;
+  padding: 10px !important;
+  margin-left: 20px !important;
+}
+
+#recommendations-img{
+  margin-left: 42% !important;
+}

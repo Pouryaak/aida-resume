@@ -1,0 +1,22 @@
+{
+  "firstName": "Aida",
+  "middleName": ".",
+  "lastName": "Khalili",
+  "avatar": "/images/avatar_yellow.png",
+  "titles": [
+    "Front-End developer",
+    "React Developer",
+    "JavaScript Developer",
+    "TypeScript Developer"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/aidagarkani",
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://www.linkedin.com/in/aida-khalili-1406701a5/",
+      "iconName": "faLinkedin"
+    }
+  ]
+}

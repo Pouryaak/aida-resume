@@ -1,0 +1,36 @@
+{
+  "education": [
+    {
+      "period": "2019 – 2022",
+      "school": "Asia Pacific University (APU)",
+      "degree": "Bachelor's Degree in Mobile Technology",
+      "description": ""
+    }
+  ],
+  "career": [
+    {
+      "period": "2020(Mar) - Present",
+      "company": "Itech Pioneer",
+      "title": "React Developer",
+      "description": ""
+    },
+    {
+      "period": "2020(Jul) - 2022(Mar)",
+      "company": "Asia Pacific University (APU)",
+      "title": "Web Application Developer",
+      "description": "<p>- Developing in JavaScript/TypeScript language</p><p>- Development with Angular Framework utilizing Ionic library</p><p>- Work in an Agile environment</p><p>- Working with CAS as an Authentication layer</p><p>- Version control and code contribution with GIT and Bitbucket</p>"
+    },
+    {
+      "period": "2021(Sep) - 2022(Jan)",
+      "company": "8secondz",
+      "title": "Web Developer",
+      "description": "<p>- Extensive experience in working with JavaScript</p><p>- Development via Angular Framework, pug and Bootstrap 4</p><p>- Working with AWS services such as S3, RDS, API GateWay, EC2</p><p>- Working with GIT - Bitbucket</p><p>- In charge of the development of the Content Management System (CMS).</p>"
+    },
+    {
+      "period": "2021(Jun) - 2021(Nov)",
+      "company": "8secondz",
+      "title": "Quality Assurance Tester",
+      "description": "<p>- Assist operations and local quality function in tracking, documenting, and reporting quality.</p><p>- Analyze and investigate product complaints or reported quality issues to ensure closure in accordance with company guidelines and external regulatory requirements</p>"
+    }
+  ]
+}
